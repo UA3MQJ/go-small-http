@@ -3,7 +3,7 @@
 Minimal HTTP server for stress tests
 
 For build:
-> go built
+> go build
 
 For start:
 
